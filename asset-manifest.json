@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/darqube-test-preview/static/css/main.39549ff0.chunk.css",
-    "main.js": "/darqube-test-preview/static/js/main.604d1d29.chunk.js",
-    "main.js.map": "/darqube-test-preview/static/js/main.604d1d29.chunk.js.map",
+    "main.js": "/darqube-test-preview/static/js/main.f45ade72.chunk.js",
+    "main.js.map": "/darqube-test-preview/static/js/main.f45ade72.chunk.js.map",
     "runtime-main.js": "/darqube-test-preview/static/js/runtime-main.6f78d140.js",
     "runtime-main.js.map": "/darqube-test-preview/static/js/runtime-main.6f78d140.js.map",
     "static/js/2.d6c6072a.chunk.js": "/darqube-test-preview/static/js/2.d6c6072a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6f78d140.js",
     "static/js/2.d6c6072a.chunk.js",
     "static/css/main.39549ff0.chunk.css",
-    "static/js/main.604d1d29.chunk.js"
+    "static/js/main.f45ade72.chunk.js"
   ]
 }
