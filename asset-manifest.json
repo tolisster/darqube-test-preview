@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/darqube-test-preview/static/css/main.39549ff0.chunk.css",
-    "main.js": "/darqube-test-preview/static/js/main.d2b412ef.chunk.js",
-    "main.js.map": "/darqube-test-preview/static/js/main.d2b412ef.chunk.js.map",
-    "runtime-main.js": "/darqube-test-preview/static/js/runtime-main.6f78d140.js",
-    "runtime-main.js.map": "/darqube-test-preview/static/js/runtime-main.6f78d140.js.map",
-    "static/js/2.d6c6072a.chunk.js": "/darqube-test-preview/static/js/2.d6c6072a.chunk.js",
-    "static/js/2.d6c6072a.chunk.js.map": "/darqube-test-preview/static/js/2.d6c6072a.chunk.js.map",
-    "static/js/3.9adb7300.chunk.js": "/darqube-test-preview/static/js/3.9adb7300.chunk.js",
-    "static/js/3.9adb7300.chunk.js.map": "/darqube-test-preview/static/js/3.9adb7300.chunk.js.map",
+    "main.css": "/darqube-test-preview/static/css/main.4e8d65ca.chunk.css",
+    "main.js": "/darqube-test-preview/static/js/main.efe1ccc3.chunk.js",
+    "main.js.map": "/darqube-test-preview/static/js/main.efe1ccc3.chunk.js.map",
+    "runtime-main.js": "/darqube-test-preview/static/js/runtime-main.7e27afd4.js",
+    "runtime-main.js.map": "/darqube-test-preview/static/js/runtime-main.7e27afd4.js.map",
+    "static/js/2.a0b0db84.chunk.js": "/darqube-test-preview/static/js/2.a0b0db84.chunk.js",
+    "static/js/2.a0b0db84.chunk.js.map": "/darqube-test-preview/static/js/2.a0b0db84.chunk.js.map",
+    "static/js/3.b8218789.chunk.js": "/darqube-test-preview/static/js/3.b8218789.chunk.js",
+    "static/js/3.b8218789.chunk.js.map": "/darqube-test-preview/static/js/3.b8218789.chunk.js.map",
     "index.html": "/darqube-test-preview/index.html",
-    "static/css/main.39549ff0.chunk.css.map": "/darqube-test-preview/static/css/main.39549ff0.chunk.css.map",
-    "static/js/2.d6c6072a.chunk.js.LICENSE.txt": "/darqube-test-preview/static/js/2.d6c6072a.chunk.js.LICENSE.txt"
+    "static/css/main.4e8d65ca.chunk.css.map": "/darqube-test-preview/static/css/main.4e8d65ca.chunk.css.map",
+    "static/js/2.a0b0db84.chunk.js.LICENSE.txt": "/darqube-test-preview/static/js/2.a0b0db84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f78d140.js",
-    "static/js/2.d6c6072a.chunk.js",
-    "static/css/main.39549ff0.chunk.css",
-    "static/js/main.d2b412ef.chunk.js"
+    "static/js/runtime-main.7e27afd4.js",
+    "static/js/2.a0b0db84.chunk.js",
+    "static/css/main.4e8d65ca.chunk.css",
+    "static/js/main.efe1ccc3.chunk.js"
   ]
 }
